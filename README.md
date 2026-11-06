@@ -1,4 +1,4 @@
-#PatchMind : plateforme DevSecOps pour la remédiation automatisée des vulnérabilités
+# PatchMind : plateforme DevSecOps pour la remédiation automatisée des vulnérabilités
 
 Plateforme qui détecte les vulnérabilités d'un projet, génère des correctifs avec des LLM et les valide automatiquement.
 
